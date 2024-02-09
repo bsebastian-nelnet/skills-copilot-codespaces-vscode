@@ -1,4 +1,3 @@
 function skillMember() {
-    var skillMember= "Hello World";
-    return skillMember;
+    return "I'm a skill member";
 }
